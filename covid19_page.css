@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg_container {
+
+    background-size: cover;
+
+    border-style: solid;
+    border-width: 7px;
+    border-color: #0967d219;
+    margin: 5px;
+}
+
+.about_covid_headline {
+    font-size: 23px;
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: 500;
+    margin: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.covid-header {
+    margin: 10px;
+    padding: 5px;
+}
+
+.know_more_button {
+    color: #ffffff;
+    margin: 10px;
+}
+
+.nurse_image {
+    height: 120px;
+    width: 150px;
+}
+
+.covid_test_card {
+    height: 150px;
+    width: 450px;
+    background-color: #0967d219;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.corona_image {
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+.covidtest_headline {
+    font-size: 25px;
+    font-family: Roboto;
+    color: #323f4b;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.covid_paragraph {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #707070;
+    margin: 10px;
+
+}
+
+
+.covid-card-container {
+    border-radius: 12px;
+    padding: 10px;
+    /*Apply padding and margin properties*/
+    margin: 10px;
+}
+
+.symptoms_headline {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #323f4b;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.symptom_name_headline {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #ffffff;
+    margin: 10px;
+    font-weight: 500;
+}
+
+
+.symptom_image {
+
+
+    height: 100px;
+    width: 90px;
+    margin: 5px;
+}
+
+
+
+.dry_cough-symptom-bg {
+    background-color: #3ebd93;
+}
+
+.high_fever_bg {
+    background-color: #e668a7;
+}
+
+.headache_symptom_bg {
+    background-color: #a368fc;
+}
+
+
+.doctor_image {
+
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+.videos_headline {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #323f4b;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.bottom_card {
+    height: 180px;
+    width: 450px;
+    background-color: #e12d3919;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.to_prevent_headline {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #323f4b;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.bottom_card_paragraph {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #707070;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.watch_video_button {
+
+    width: 140px;
+    margin: 15px;
+    border-radius: 10px;
+}
